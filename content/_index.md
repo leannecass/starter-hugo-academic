@@ -57,9 +57,9 @@ sections:
 
         ### Working papers and selected works in progress
         \
-        **The role of trade openness in the temperature-growth relationship**
+        **Does trade openness reduce the impact of temperature shocks on productivity? An empirical assessment**
 
-          - *Summary:* This paper uses a reduced-form empirical model to test the common hypothesis that trade openness can help countries to adapt to climate change. I construct an instrument for trade openness in a manner consistent with international trade theory, and use this instrument in an empirical model of GDP per capita growth. The results provide minimal evidence that historically trade openness has helped to mitigate the negative impact of temperature shocks on economic growth.
+          - *Abstract:* Environmental economists have often hypothesized that openness to international trade can help send market signals that enable adaptation to climate change; however, much of the evidence we have on this hypothesis relies on structural models and simulations. In the spirit of the climate econometrics literature, this paper aims to complement this evidence from structural approaches by using a reduced-form empirical model to test this hypothesis that trade openness can reduce the impact of temperature shocks on economic growth. I construct an instrument for trade openness in a manner consistent with international trade theory, and use this instrument in an empirical model of GDP per capita growth. The results provide very limited evidence that trade openness has helped to mitigate the negative impact of temperature shocks on economic growth over the past 30 years, suggesting that caution is warranted when considering the potential role of trade openness in adaptation to climate change.
 
         **Green innovation in food products**, with Marion Dumas
 
