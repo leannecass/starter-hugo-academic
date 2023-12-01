@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: custom_theme
-  font: Rose
+  font: custom_font
   font_size: m
 
 # SEO
