@@ -6,9 +6,7 @@
 # Appearance
 
 appearance:
-  theme_light: custom_theme
-  theme_dark: custom_theme
-  mode: light
+  theme_day: custom_theme
   font: Rose
   font_size: m
 

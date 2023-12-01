@@ -6,10 +6,10 @@ name = "Custom theme"
   primary = "#3f51b5"
 
   # Menu
-  menu_primary = "#258" # Material 500
-  menu_text = "#34495e"
-  menu_text_active = "#ffeb3b" # Material Complemantary 500
-  menu_title = "#fff"
+  menu_primary = "#004d4d" # Background colour of the menu banner
+  menu_text = "#fff" # Text colour for menu items
+  menu_text_active = "#009a9a" # Highlight text colour for current menu item
+  menu_title = "#fff" # Text colour for website name (my name)
 
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
