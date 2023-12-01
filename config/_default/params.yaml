@@ -6,8 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: minimal
+  theme_light: custom_theme
+  theme_dark: custom_theme
+  mode: light
   font: Rose
   font_size: m
 
@@ -39,7 +40,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
