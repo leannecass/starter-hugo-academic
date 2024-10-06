@@ -81,7 +81,7 @@ highlight_name: true
 
 Hello and thank you for visiting my website!
 
-I am an applied environmental economist, currently based at the University of Helsinki. My research interests lie at the intersection of environmental economics with international trade, labour economics, and food consumption.
+I am an applied environmental economist based at the University of Helsinki. My research interests lie at the intersection of environmental economics with international trade, labour economics, and food consumption.
 
 The aim of my research is to provide robust, data-driven insights that can contribute to delivering an effective and fair low-carbon transition. 
 
