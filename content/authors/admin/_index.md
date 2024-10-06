@@ -15,13 +15,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Officer
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name:
-      "Grantham Research Institute,\n London School of Economics"
-    url: https://www.lse.ac.uk/granthaminstitute/
+      "Department of Economics and Management,\n University of Helsinki"
+    url: https://www.helsinki.fi/en/faculty-agriculture-and-forestry/research/economics-and-management
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:l.e.cass@lse.ac.uk'
+    link: 'mailto:leanne.cass@helsinki.fi'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/LCassCV_Nov2023.pdf
+    link: uploads/LCassCV_Oct2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -81,7 +81,7 @@ highlight_name: true
 
 Hello and thank you for visiting my website!
 
-I am an applied environmental economist, currently based at the Grantham Research Institute at LSE. My research interests lie at the intersection of environmental economics with international trade, labour economics, and food consumption.
+I am an applied environmental economist, currently based at the University of Helsinki. My research interests lie at the intersection of environmental economics with international trade, labour economics, and food consumption.
 
 The aim of my research is to provide robust, data-driven insights that can contribute to delivering an effective and fair low-carbon transition. 
 
