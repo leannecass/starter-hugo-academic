@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/LCassCV_Oct2024.pdf
+    link: uploads/LCassCV_Jan2026.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -48,29 +48,31 @@ sections:
       title: Research
       subtitle: ''
       text: |-
-        ### Job market paper
-        \
+        ### Working papers and selected works in progress
+
+
+        **Adoption, incidence and welfare impacts of interest-free loans: Evidence from solar PV**, with Aur&#233;lien Saussay and Misato Sato. *Submitted*.
+        {{% staticref "uploads/Cass_et_al_Dec2025.pdf" "newtab" %}}[Available here]{{% /staticref %}}
+
+          - *Abstract:* Steep declines in solar PV costs alongside concerns about regressive subsidy incidence raise questions about whether, and how, to continue support. Leveraging administrative microdata on the near-universe of UK domestic PV, we employ a matched difference-in-differences design exploiting devolved UK policy to evaluate the zerointerest Home Energy Scotland loan. The loan increased household adoption and shifted take-up towards smaller systems. Distributionally, gains were broad and not concentrated among high-wealth or rural areas, delivering more equitable benefits than alternative PV subsidies. A loan-specific marginal value of public funds shows welfare gains at modest fiscal cost even in a low-solar potential setting.
+
         **The impact of weather shocks on exports**
         {{% staticref "uploads/LCassJMP.pdf" "newtab" %}}[Available here]{{% /staticref %}}\[[Ergs and Equilbrium Podcast Episode](https://ergsandequilibrium.ca/2023/01/12/episode-7-weather-and-international-trade/)\]
 
           - *Abstract:* Previous research suggests that weather shocks negatively impact exports; however, we know relatively little about the extent to which these impacts are capturing a particularly sensitivity of exports or simply the impact on economic productivity through the lens of trade data. This paper brings together recent developments from the international trade and climate econometrics to investigate whether exports are particularly sensitive to weather shocks compared to sales in the domestic market. In contrast to previous empirical papers that study the impact of weather shocks on international trade, I use an empirical approach that includes domestic trade flows and controls robustly for multilateral resistance parameters. I find that both manufacturing and agricultural exports are sensitive to weather shocks, but in different ways. Agricultural exports are sensitive to increases in annual mean temperature, while manufacturing exports are sensitive to extreme heat days. Moreover, I provide some evidence that suggests that this sensitivity of exports to weather shocks is larger when existing trade barriers between the exporter and importer are large. Economists usually conceptualize the macroeconomic damages of climate change as productivity impacts, but these results provide some evidence that weather and potentially climate change can have economically significant impacts beyond the point of production. In particular, the results of this paper suggest that weather and climate shocks propagate unequally through supply chains, such that buyers that are more remote are more impacted by the shock.
 
-        ### Working papers and selected works in progress
-        \
-        **Does trade openness reduce the impact of temperature shocks on productivity? An empirical assessment**
+        **Wage and skills gaps for green jobs in Europe**, with Federico Frattini, Misato Sato, Aurélien Saussay, and Francesco Vona
 
-          - *Abstract:* Environmental economists have often hypothesized that openness to international trade can help send market signals that enable adaptation to climate change; however, much of the evidence we have on this hypothesis relies on structural models and simulations. In the spirit of the climate econometrics literature, this paper aims to complement this evidence from structural approaches by using a reduced-form empirical model to test this hypothesis that trade openness can reduce the impact of temperature shocks on economic growth. I construct an instrument for trade openness in a manner consistent with international trade theory, and use this instrument in an empirical model of GDP per capita growth. The results provide very limited evidence that trade openness has helped to mitigate the negative impact of temperature shocks on economic growth over the past 30 years, suggesting that caution is warranted when considering the potential role of trade openness in adaptation to climate change.
+        **Does trade openness reduce the impact of temperature shocks on productivity? An empirical assessment**
 
         **Green innovation in food products**, with Marion Dumas
 
-        **Supporting solar\: The causal impact of subsidies on domestic photovoltaic installations**, with Aur&#233;lien Saussay and Misato Sato
-
-        **Green jobs and spatial inequality**, with Aur&#233;lien Saussay and Misato Sato
-
         ### Policy papers
-        \
+        
+        
         **Skills and wage gaps in the low-carbon transition: comparing job vacancy data from the US and UK** (2023). [*Grantham Research Institute Policy Report*](https://www.lse.ac.uk/granthaminstitute/publication/skills-and-wage-gaps-in-the-low-carbon-transition-comparing-job-vacancy-data-from-the-us-and-uk/), with Misato Sato, Aur&#233;lien Saussay, Francesco Vona, Leo Mercer, and Layla O'Kane.\
         \[*Media coverage*: [The Guardian](https://www.theguardian.com/environment/2023/jan/23/low-carbon-jobs-fell-after-david-cameron-kibosh-on-green-crap-policies-study); [The Financial Times](https://www.ft.com/content/4a55e794-e65e-4fab-8b8c-7afd79fba7ba).\]
+  ## - *Abstract:* Environmental economists have often hypothesized that openness to international trade can help send market signals that enable adaptation to climate change however, much of the evidence we have on this hypothesis relies on structural models and simulations. In the spirit of the climate econometrics literature, this paper aims to complement this evidence from structural approaches by using a reduced-form empirical model to test this hypothesis that trade openness can reduce the impact of temperature shocks on economic growth. I construct an instrument for trade openness in a manner consistent with international trade theory, and use this instrument in an empirical model of GDP per capita growth. The results provide very limited evidence that trade openness has helped to mitigate the negative impact of temperature shocks on economic growth over the past 30 years, suggesting that caution is warranted when considering the potential role of trade openness in adaptation to climate change.      
     design:
       columns: '1'
   # - block: markdown
