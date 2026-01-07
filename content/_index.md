@@ -51,8 +51,8 @@ sections:
         ### Working papers and selected works in progress
 
 
-        **Adoption, incidence and welfare impacts of interest-free loans: Evidence from solar PV**, with Aur&#233;lien Saussay and Misato Sato. *Submitted*.
-        {{% staticref "uploads/Cass_et_al_Dec2025.pdf" "newtab" %}}[Available here]{{% /staticref %}}
+        **Adoption, incidence and welfare impacts of interest-free loans: Evidence from solar PV**, with Aur&#233;lien Saussay and Misato Sato. *Submitted*.\
+        \[[CEP Discussion Paper](https://cep.lse.ac.uk/_new/publications/abstract.asp?index=11930)\]
 
           - *Abstract:* Steep declines in solar PV costs alongside concerns about regressive subsidy incidence raise questions about whether, and how, to continue support. Leveraging administrative microdata on the near-universe of UK domestic PV, we employ a matched difference-in-differences design exploiting devolved UK policy to evaluate the zerointerest Home Energy Scotland loan. The loan increased household adoption and shifted take-up towards smaller systems. Distributionally, gains were broad and not concentrated among high-wealth or rural areas, delivering more equitable benefits than alternative PV subsidies. A loan-specific marginal value of public funds shows welfare gains at modest fiscal cost even in a low-solar potential setting.
 
