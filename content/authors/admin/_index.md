@@ -29,8 +29,8 @@ bio:
 # Interests to show in About widget
 interests:
   - Environmental Economics
-  - International Trade
   - Labour Economics
+  - International Trade
 
 # Education to show in About widget
 education:
